@@ -1,0 +1,128 @@
+header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(143, 3, 3);
+    display: flex;
+    align-items: center;
+    border: 3px solid rgb(190, 190, 190);
+    
+}
+header h1{
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header img{
+    width: 150px;
+    height: 100px;
+    margin-left: 20px;
+}
+.nav1{
+    height: 800px;
+    width: 800px;
+    font-size: 40px;
+    border: 3px solid rgb(190, 190, 190);
+    color: rgb(77, 77, 77);
+    text-decoration: none;
+    float: left;
+}
+.nav1 a{
+    text-decoration: none;
+    color: rgb(85, 84, 84);
+}
+.nav1 ul{
+    margin-left: 190px;
+    margin-top: 120px;
+}
+.sec1{
+    height: 800px;
+    width: 1050px;
+    background-color: rgb(75, 23, 23);
+    border: 3px solid rgb(165, 165, 165);
+    color: aliceblue;
+    float: right;
+    
+}
+.sec1 img{
+    width: 90px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sec1 h2{
+    margin-top: 35px;
+    margin-left: 50px;
+    font-size: 33px;
+}
+.sec2{
+    align-items: center;
+    display: flex;
+}
+.ol1{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+footer{
+    border: 3px solid rgb(190, 190, 190);
+    margin-top: 800px;
+    display: flex;
+    height: 100px;
+    background-color: rgb(168, 168, 168);
+}
+footer img{
+    height: 50px;
+    width: 50px;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+footer p{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.sec3{
+    height: 800px;
+    width: 1050px;
+    background-color: rgb(78, 0, 0);
+    border: 3px solid rgb(126, 126, 126);
+    color: aliceblue;
+    float: right;
+}
+table{
+    background-color: rgb(146, 146, 146);
+    height: 600px;
+    width: 800px;
+    margin-left: 100px;
+    margin-top: 90px;
+    font-size: 20px;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+table img{
+    height: 160px;
+    width: 100px;
+    margin-left: 30px;
+}
+#td1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+}
+.sec4{
+    height: 800px;
+    width: 1050px;
+    background-color: rgb(78, 0, 0);
+    border: 3px solid rgb(126, 126, 126);
+    color: aliceblue;
+    float: right;
+    text-align: center;
+}
+fieldset{
+    margin-top: 50px;
+    height: 300px;
+    width: 1000px;
+    margin-left: 10px;
+    font-size: 23px
+}
+
